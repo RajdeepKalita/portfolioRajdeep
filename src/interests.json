@@ -1,0 +1,60 @@
+{
+    "name": "Technical Skills",
+    "children": [
+        {
+            "name": "Languages",
+            "children": [
+                { "name": "C++" },
+                { "name": "Java" },
+                { "name": "Python" }
+            ]
+        },
+        {
+            "name": "FullStack Frameworks",
+            "children": [
+                {
+                    "name": "Angular",
+                    "children": [
+                        { "name": "HTML" },
+                        { "name": "CSS" },
+                        { "name": "Typescript" }
+                    ]
+                },
+                {
+                    "name": "Java Springboot"
+                }
+            ]
+        },
+        {
+            "name": "RDMS",
+            "children": [
+                {
+                    "name": "Microsoft SQL Server"
+                }
+            ]
+        }
+        , {
+            "name": "IT Constructs",
+            "children": [
+                {
+                    "name": "Data Structures and Algorithms"
+                },
+                {
+                    "name": "OOPS"
+                }
+            ]
+        },
+        {
+            "name": "Tools and Softwares",
+            "children": [
+                {
+                    "name": "Postman"
+                },
+                {
+                    "name": "Matlab"
+                }
+            ]
+        }
+        
+    ]
+}
