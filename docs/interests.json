@@ -1,126 +1,60 @@
 {
-    "name": "interests",
+    "name": "Technical Skills",
     "children": [
         {
-            "name": "art",
+            "name": "Languages",
             "children": [
-                { "name": "design" },
-                { "name": "painting" }
+                { "name": "C++" },
+                { "name": "Java" },
+                { "name": "Python" }
             ]
         },
         {
-            "name": "sports",
+            "name": "FullStack Frameworks",
             "children": [
                 {
-                    "name": "design",
+                    "name": "Angular",
                     "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
+                        { "name": "HTML" },
+                        { "name": "CSS" },
+                        { "name": "Typescript" }
                     ]
                 },
                 {
-                    "name": "painting",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
+                    "name": "Java Springboot"
                 }
             ]
         },
         {
-            "name": "sports",
+            "name": "RDBMS",
             "children": [
                 {
-                    "name": "design",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
-                },
-                {
-                    "name": "painting",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
+                    "name": "Microsoft SQL Server"
                 }
             ]
         }
         , {
-            "name": "sports",
+            "name": "IT Constructs",
             "children": [
                 {
-                    "name": "design",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
+                    "name": "Data Structures and Algorithms"
                 },
                 {
-                    "name": "painting",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
+                    "name": "OOPS"
                 }
             ]
         },
         {
-            "name": "sports",
+            "name": "Tools and Softwares",
             "children": [
                 {
-                    "name": "design",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
+                    "name": "Postman"
                 },
                 {
-                    "name": "painting",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "sports",
-            "children": [
-                {
-                    "name": "design",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
-                },
-                {
-                    "name": "painting",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "sports",
-            "children": [
-                {
-                    "name": "design",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
-                },
-                {
-                    "name": "painting",
-                    "children": [
-                        { "name": "design" },
-                        { "name": "painting" }
-                    ]
+                    "name": "Matlab"
                 }
             ]
         }
+        
     ]
 }
